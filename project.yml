@@ -1,0 +1,27 @@
+_prefs: 
+  mapid: bertspaan.dfb0c369
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 4.9004
+  - 52.3728
+  - 18
+description: Rainbow Buildings for Maptime Amsterdam!
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 22
+minzoom: 15
+name: Rainbow Buildings
+source: "mapbox:///mapbox.mapbox-streets-v5"
+styles: 
+  - style.mss
+template: ''
